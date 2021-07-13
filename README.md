@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad Aminpour
+- 👋 Hi, I’m Mohammad Aminpour, PhD.
 - 👀 I’m interested in Computational Geomechanics and Machine Learning/Artificial Intelligence. 
 - 🌱 I’m currently working as an academic at RMIT University, Melbourne, Australia.
 - 💞️ I’m looking to collaborate on ML applications in geomechanics.
